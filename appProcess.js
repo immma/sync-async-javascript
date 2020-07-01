@@ -1,3 +1,5 @@
+// INDONESIA ENGLISH MIX :)
+
 console.log('START \n----------')
 
 function displayProcess1(timeout) {
