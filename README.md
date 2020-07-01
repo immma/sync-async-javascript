@@ -10,7 +10,7 @@ Now let's check. There are two main files that contain functions from another fi
 
 The file called `app.js` is contain local functions that use parameter. Then, in `runner.js` is contains function from `exportModule.js`, `processOne.js`, and `processTwo.js`. 
 
-You can call it simply by node app.js or runner.js to know the difference. 
+You can call it simply by `node app.js` or `node runner.js` to know the difference. 
 
 Happy Testing. 
 ---
