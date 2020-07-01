@@ -4,7 +4,7 @@
 Disclaimer: This repo contains some Indonesia-English mix function name, but it doesn't interfere the essentials of the codes. For instances, `satu` means `one` in English, and so on. You may change the codes by your own flavors. Cheers.
 
 ### How to use this?
-There are several files that use some model to call async and Promise with SetTimeout. SetTimeout is something like Python's ``sleep()``
+There are several files that use some model to call async and Promise with SetTimeout. SetTimeout is something like Python's ``sleep()``.
 
 Now let's check. There are two main files that contain functions from another files. For example, if you are using `app.js` you may call it by `node app.js` in your terminal. 
 
