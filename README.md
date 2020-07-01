@@ -12,6 +12,7 @@ The file called `app.js` is contain local functions that use parameter. Then, in
 
 You can call it simply by `node app.js` or `node runner.js` to know the difference. 
 
-Happy Testing. 
+Happy Testing!
+
 ---
 You may read my personal blog in https://ardihanitya.id.
